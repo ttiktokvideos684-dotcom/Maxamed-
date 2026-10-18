@@ -1,0 +1,6 @@
+{
+  "name": "Nexora Picks - Affiliate E-Commerce & Reviews",
+  "description": "Discover carefully selected technology, digital tools, and lifestyle products with transparent reviews and verified affiliate deals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
